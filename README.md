@@ -17,7 +17,11 @@ The criteria on which you are judged:
 5. How well you use components
 6. Selection of your libraries and frameworks
 
-Bonus points for a beautiful application.
+Bonus points 
+1. beautiful application.
+2. And kind and detail commit logs.
+3. TDD (e,g. jest.js)
+4. Offer to improve the function or optimization.
 
 ## Assignment
 
